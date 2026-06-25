@@ -1,16 +1,4 @@
-"""ML preprocessing + simple linear regression demo.
 
-This file is generated from the notebook code you shared in chat.
-It demonstrates:
-- Handling missing values (dropna / fillna)
-- Label Encoding
-- One Hot Encoding (sklearn + pandas)
-- Feature scaling (StandardScaler)
-- Train/test split and LinearRegression prediction
-
-Run:
-  python3 ml_code.py
-"""
 
 import numpy as np
 import pandas as pd
